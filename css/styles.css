@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(240, 215, 250);
+
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color:rgb(167, 133, 231) ;
+    border-width: 5px;
+    width: 50%;
+}
+
+.shadowbox{
+    width: 50px;
+    height: 100px;
+    margin-right: 50%;
+    margin-left: 50%;
+    padding:100px;
+    text-align: center;
+}
