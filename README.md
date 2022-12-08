@@ -7,3 +7,5 @@
 
 
 # :woman_technologist: About Me :
+I'm working as Technical Support at fintech company 
+Learning frontend- Html, Css, Java script
