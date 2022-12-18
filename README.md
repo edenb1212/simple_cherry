@@ -9,5 +9,3 @@
 # :woman_technologist: About Me :
 <p> I'm working as Technical Support at fintech company </p>
 <p> Learning frontend- Html, Css, Java script </p>
-
-test
