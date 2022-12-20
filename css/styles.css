@@ -23,7 +23,7 @@ hr {
 
 .middle{
 background-color: rgb(207, 236, 203);
-width: 60px;
+width: 50px;
 height: 50px;
 padding:100px;
 margin-left: 250px;
@@ -36,4 +36,14 @@ width: 50px;
 height: 50px;
 padding:100px;
 margin-left: 500px;
+}
+
+.top{
+    position: relative;
+    display: inline-block;
+}
+
+.cloud{
+    position: relative;
+    display: inline-block;
 }
