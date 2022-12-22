@@ -1,6 +1,7 @@
 
 body {
     background-color: rgb(240, 215, 250);
+    text-align: center;
 
 }
 
@@ -43,7 +44,15 @@ margin-left: 500px;
     display: inline-block;
 }
 
-.cloud{
-    position: relative;
-    display: inline-block;
+h1{
+    margin-top:0;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    margin-left: 350px;
 }
