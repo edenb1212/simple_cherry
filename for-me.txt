@@ -34,3 +34,77 @@
     </div>
 
     <img src="images/mountain.png" alt="cloud-img">
+
+       <div class="shadowbox">
+                       <p>Meow meow meow meow</p> 
+                    </div>
+
+                    <div class="middle">
+
+                    </div>
+
+                    <div class="bottom">
+
+                    
+    <hr>
+    <table border="4">
+        <thead>
+            <tr>
+                <th>What I need to do</th>
+                <th>What I love to do</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <td>Study</td>
+            <td>paint</td>
+            </tr>
+        </tbody>
+     
+        
+        <table>
+            <h3>My Skills</h3>
+            <table cellspacing="10">
+
+                <td>Cooking</td>
+
+                <td> &#127775;&#127775;&#127775;</td>
+
+                <td>Failing in life</td>
+
+                <td>&#127775;&#127775;&#127775;</td>
+
+                </tr>
+
+                <tr>
+                    <td>Cleaning</td>
+                    <td> &#127775;&#127775;</td>
+                    <td>Failing in life</td>
+                    <td>&#127775;&#127775;&#127775;</td>
+
+                </tr>
+
+                <tr>
+                    <td>Caring about other people</td>
+                    <td> &#127775;&#127775;&#127775;&#127775;</td>
+                    <td>Failing in life</td>
+                    <td>&#127775;&#127775;&#127775;</td>
+                </tr>
+
+                <tr>
+                    <td>Making people laugh</td>
+
+                    <td> &#127775;&#127775;&#127775;</td>
+
+                    <td>Failing in life</td>
+
+                    <td>&#127775;&#127775;&#127775;</td>
+                </tr>
+
+                <tr>
+                    <td>painting</td>
+                    <td> &#127775;&#127775;&#127775;</td>
+                    <td>Failing in life</td>
+                    <td>&#127775;&#127775;&#127775;</td>
+                </tr>
+                <table>
