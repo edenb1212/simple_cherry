@@ -1,16 +1,20 @@
 body {
-    background-color: rgb(253, 253, 253);
+    background-color: rgb(255, 255, 255);
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: 'fantasy';
+    margin: 0px;
 
 }
 
 h1{
-    font-family: 'Sacramento';
+    font-family: 'Bad Script', cursive;
+    font-size:80px ;
 }
 
 h2{
-    font-family: 'Montserrat';
+font-family: 'Bad Script';
+
+
 }
 
 hr {
@@ -24,7 +28,12 @@ hr {
 
 .top {
     position: relative;
-    display: inline-block;
+    padding-top: 100px;
+    background-color: rgb(211, 238, 240);
+    margin-bottom: 0px;
+
+
+
 }
 
 h1 {
@@ -32,10 +41,18 @@ h1 {
 }
 
 .top-cloud {
-    position: absolute;
+    position:absolute;
+    margin-left:350px;
+    margin-top: -50px;
+
 }
 
-.top-cloud{
+.bottom-cloud{
     position: absolute;
-    margin-left: 350px;
+    margin-top: 10px;
+    margin-left:-200px;
+}
+
+.mountain{
+    margin-bottom: 0px
 }
