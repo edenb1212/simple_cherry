@@ -34,13 +34,3 @@
     </div>
 
     <img src="images/mountain.png" alt="cloud-img">
-
-
- right: 450px;
-    top: 20px; ;
-    width: 200px;
-
-    left: 450px;
-    bottom:300px ;
-    width: 200px;
-}

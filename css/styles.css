@@ -1,7 +1,16 @@
 body {
     background-color: rgb(253, 253, 253);
     text-align: center;
+    font-family: 'Merriweather', serif;
 
+}
+
+h1{
+    font-family: 'Sacramento';
+}
+
+h2{
+    font-family: 'Montserrat';
 }
 
 hr {
@@ -15,8 +24,7 @@ hr {
 
 .top {
     position: relative;
-    padding-top: 100px;
-    background-color: rgb(204, 240, 245)
+    display: inline-block;
 }
 
 h1 {
@@ -25,14 +33,9 @@ h1 {
 
 .top-cloud {
     position: absolute;
-    margin-left: 300px;
-    top: 40px;
-
-    
 }
 
-
-.bottom-cloud {
+.top-cloud{
     position: absolute;
-    margin-left:-100px;
+    margin-left: 350px;
 }
