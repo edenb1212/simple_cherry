@@ -59,15 +59,13 @@ h1{
 
 .bottom-cloud{
     position: absolute;
-    left: 450px;
-    bottom:300px ;
-    width: 200px;
+     margin-left:-100px;
 }
 
 .top-cloud{
     position: absolute ;
-    right: 450px;
-    top: 20px; ;
-    width: 200px;
+    margin-left: 300px;
+    top: 40px;
+
 }
 fd
