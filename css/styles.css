@@ -60,3 +60,9 @@ hr {
 .mountain{
     margin-bottom: 0px
 }
+
+.skillsimg{
+    width:10%;
+    display: block;
+    margin: auto;
+}
