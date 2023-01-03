@@ -24,8 +24,10 @@ h1{
 
 h2{
 font-family: 'Bad Script';
-
-
+}
+h3{
+font-family: 'Caveat', cursive;
+color: #66BFBF;
 }
 
 hr {
@@ -62,7 +64,27 @@ hr {
 }
 
 .skillsimg{
-    width:150px;
-    display: block;
-    margin: auto;
+    width:250px;
+    margin: auto 30px auto auto;
+    float: left;
+}
+
+.skillscontainer{
+    text-align: left;
+    width: 50% ;
+    margin: 50px auto 50px auto ;
+    line-height: 2;
+}
+
+.computerimg{
+     width:250px;
+     float: right;
+     margin-left: 30px;
+}
+
+.computer-row{
+    text-align: right;
+    margin: 50px auto 50px auto ;
+
+
 }
