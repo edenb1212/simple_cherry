@@ -1,9 +1,14 @@
 body {
     background-color: rgb(255, 255, 255);
     text-align: center;
-    font-family: 'fantasy';
+    font-family: 'Mukta', sans-serif;
     margin: 0px;
+    color: rgb(56, 57, 58);
 
+}
+
+.middle-container{
+    margin: 100px 0px;
 }
 
 h1{
@@ -26,8 +31,9 @@ h2{
 font-family: 'Bad Script';
 }
 h3{
-font-family: 'Caveat', cursive;
+font-family: 'Yeon Sung', cursive;
 color: #66BFBF;
+
 }
 
 hr {
@@ -72,7 +78,7 @@ hr {
 .skillscontainer{
     text-align: left;
     width: 50% ;
-    margin: 50px auto 50px auto ;
+    margin: 50px auto 130px auto ;
     line-height: 2;
 }
 
@@ -86,10 +92,15 @@ hr {
     text-align: right;
     margin: 50px auto 50px auto ;
 
+}
 
+
+ /* בשביל כ
+ .textskill2{
+    clear: right;
 
 }
 
-.hrfix{
-    margin-top: 100px;
-}
+.textskill1{
+    clear: left;
+}*/
