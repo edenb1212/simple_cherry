@@ -10,7 +10,14 @@ body {
 .middle-container{
     margin: 100px 0px;
 }
+.intro{
+    width: 30%;
+    margin: auto;
+}
 
+p{
+    line-height: 2.5;
+}
 h1{
     font-family: 'Bad Script', cursive;
     font-size: 5.625rem ;
