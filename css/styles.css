@@ -6,17 +6,33 @@ body {
     color: rgb(56, 57, 58);
 
 }
+a{
+    color: rgb(14, 78, 78);
+    font-family: 'Yeon Sung', cursive;
+    margin: 10px 10px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
 
 .middle-container{
-    margin: 100px 0px;
+    margin: 150px 0px;
 }
 .intro{
     width: 30%;
     margin: auto;
 }
 
+.contact-info{
+    width: 28%;
+    margin: 40px auto;
+}
+ 
 p{
     line-height: 2.5;
+    margin: auto;
 }
 h1{
     font-family: 'Bad Script', cursive;
@@ -85,8 +101,12 @@ hr {
 .skillscontainer{
     text-align: left;
     width: 50% ;
-    margin: 50px auto 130px auto ;
+    margin: 50px auto 100px auto ;
     line-height: 2;
+}
+
+.computerh3{
+    text-align: right;
 }
 
 .computerimg{
@@ -97,17 +117,49 @@ hr {
 
 .computer-row{
     text-align: right;
-    margin: 50px auto 50px auto ;
+    margin: 0px auto 50px auto ;
+}
 
+ 
+ .textskill1{
+    clear: left;
 }
 
 
- /* בשביל כ
- .textskill2{
+.textskill2{
     clear: right;
 
 }
 
-.textskill1{
-    clear: left;
-}*/
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family:'Yeon Sung';
+    color: #ffffff;
+    font-size: 15px;
+    background: #48a8ab;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #a9f5f5;
+    background-image: -webkit-linear-gradient(top, #a9f5f5, #7abbe6);
+    background-image: -moz-linear-gradient(top, #a9f5f5, #7abbe6);
+    background-image: -ms-linear-gradient(top, #a9f5f5, #7abbe6);
+    background-image: -o-linear-gradient(top, #a9f5f5, #7abbe6);
+    background-image: linear-gradient(to bottom, #a9f5f5, #7abbe6);
+    text-decoration: none;
+  }
+
+  .bottom-container{
+    line-height: 2;
+    background-color: #48a8ab;
+    padding: 50px 0 20px;
+  }
+
+  .contact-me{
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
