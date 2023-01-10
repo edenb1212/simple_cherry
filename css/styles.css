@@ -17,6 +17,15 @@ a:hover{
     color: #EAF6F6;
 }
 
+.copyright{
+    color: #EAF6F6;
+    font-family: 'Yeon Sung', cursive;
+    text-decoration: none;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+
+}
+
 .middle-container{
     margin: 150px 0px;
 }
