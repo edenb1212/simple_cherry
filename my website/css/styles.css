@@ -8,7 +8,7 @@ body {
 }
 a{
     color: rgb(14, 78, 78);
-    font-family: 'Yeon Sung', cursive;
+    font-family: 'Open Sans', cursive;
     margin: 10px 10px;
     text-decoration: none;
 }
@@ -19,9 +19,9 @@ a:hover{
 
 .copyright{
     color: #EAF6F6;
-    font-family: 'Yeon Sung', cursive;
+    font-family: 'Open Sans', cursive;
     text-decoration: none;
-    font-size: 0.75rem;
+    font-size: 1rem;
     padding: 20px 0px;
 
 }
@@ -73,6 +73,7 @@ hr {
     border-top: dotted;
     border-color: rgb(167, 133, 231);
     border-width: 5px;
+    text-align: center;
     width: 50%;
 }
 
