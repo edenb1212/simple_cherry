@@ -69,12 +69,11 @@ color: #66BFBF;
 }
 
 hr {
-    border-style: none;
-    border-top: dotted;
-    border-color: rgb(167, 133, 231);
-    border-width: 5px;
+    border-top:5px dotted rgb(167, 133, 231);
     text-align: center;
-    width: 50%;
+    width: 40%;
+    margin: 20px auto !important;
+    opacity: 1 !important;
 }
 
 
