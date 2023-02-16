@@ -3,8 +3,9 @@
 }
 
 .navbar-brand{
-    font-family: 'Montserrat 300', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
+
 h1{
     font-family: "Montserrat", sans-serif ;
     color: white;
@@ -15,4 +16,8 @@ h1{
 
 .container-fluid{
     padding: 3% 15%;
+}
+
+.dog-img{
+    transform: rotate(180deg);
 }
