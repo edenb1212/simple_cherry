@@ -1,0 +1,23 @@
+#title{
+    background-color: #ff4c68;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-family: "Montserrat", sans-serif ;
+    color: white;
+    font-size: 3rem;
+    line-height: 2 ;
+    width: 70%;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.dog-img{
+    transform: rotate(180deg);
+}
