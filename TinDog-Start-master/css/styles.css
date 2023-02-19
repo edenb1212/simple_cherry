@@ -1,14 +1,15 @@
 #title{
     background-color: #ff4c68;
+    color: white;
 }
 
-.navbar-brand{
+body{
     font-family: 'Montserrat', sans-serif;
 }
 
 h1{
-    font-family: "Montserrat", sans-serif ;
-    color: white;
+    font-family:"Montserrat", sans-serif;
+    font-weight: 900;
     font-size: 3rem;
     line-height: 2 ;
     width: 70%;
@@ -18,6 +19,14 @@ h1{
     padding: 3% 15%;
 }
 
-.dog-img{
-    transform: rotate(180deg);
+.col-lg-6{
+    margin-top: 100px;
+}
+
+.iphone{
+    transform: rotate(20deg);
+}
+
+.nav-link{
+    font-size: 1.5rem ;
 }
