@@ -7,5 +7,5 @@
 
 
 # :woman_technologist: About Me :
-<h1> I'm working as Technical Support at fintech company <h1>
+<h1> I'm working as Technical Support at fintech company <h1/>
 <p> Learning frontend- Html, Css, Java script </p>
