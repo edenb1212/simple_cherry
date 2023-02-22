@@ -1,10 +1,18 @@
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* top page */
 #title{
     background-color: #ff4c68;
     color: white;
 }
 
-body{
-    font-family: 'Montserrat', sans-serif;
+.container-fluid{ 
+    /* bootstrap container of the title */
+    padding: 3% 15%;
 }
 
 h1{
@@ -15,24 +23,36 @@ h1{
     width: 70%;
 }
 
-.container-fluid{
-    padding: 3% 15%;
+/* navbar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+    
 }
 
-.col-lg-6{
-    margin-top: 10px;
-}
-
-.iphone{
-    transform: rotate(20deg);
+.nav-item{
+    padding: 0 18px;
 }
 
 .nav-link{
-    font-size: 1.5rem ;
+    font-family:'Montserrat', sans-serif; ;
+    font-weight: lighter;
+    font-size: 1.2rem;
 }
 
 .navbar-brand{
     font-family: 'Ubuntu', monospace;
     font-size: 2.5rem;
     font-weight: bold;
+}
+
+/* download buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0;
+
+}
+
+.iphone{
+    transform: rotate(20deg);
 }
