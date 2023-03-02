@@ -70,32 +70,21 @@ h3{
     font-size: 1.5rem;
 }
 
-.features{
+.features-box{
     text-align: center;
     margin-top: 70px;
 }
 
-.fa-circle-check{
-    width: 20%;
-    color: #ef8172;
-}
-.fa-bullseye{
-    width: 30%;
-    color: #ef8172;
-}
-.fa-heart {
-    width: 38%;
+.icon{
     color: #ef8172;
 }
 
-.pfeatures{
+
+p{
     /* fix text-align by margin auto */
-    text-align: center;
-    width: 60%;
-    margin: auto;
     color: #8f8f8f;
 }
 
-i:hover{
+.icon:hover{
     color: #ff4c68;
 }
