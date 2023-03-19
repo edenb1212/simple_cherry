@@ -1,23 +1,92 @@
-#title{
-    background-color: #ff4c68;
-}
 
-.navbar-brand{
+body{
     font-family: 'Montserrat', sans-serif;
 }
 
-h1{
-    font-family: "Montserrat", sans-serif ;
+
+/* top page */
+#title{
+    background-color: #ff4c68;
     color: white;
-    font-size: 3rem;
+}
+
+.container-fluid{ 
+    /* bootstrap container of the title */
+    padding: 3% 15%;
+}
+
+h1{
+    font-family:'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
     line-height: 2 ;
     width: 70%;
 }
 
-.container-fluid{
-    padding: 3% 15%;
+/* navbar */
+
+.navbar{
+    padding-bottom: 4.5rem;
+    
 }
 
-.dog-img{
-    transform: rotate(180deg);
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family:'Montserrat', sans-serif; 
+    font-weight: lighter;
+    font-size: 1.2rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', monospace;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* download buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0;
+
+}
+
+.iphone{
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+/* Features  */
+#features{
+    padding: 2% 14%;
+}
+
+h3{
+    font-family:'Montserrat', sans-serif;
+    font-weight:900;
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+
+.features-box{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.icon{
+    color: #ef8172;
+}
+
+
+p{
+    /* fix text-align by margin auto */
+    color: #8f8f8f;
+    padding: 0 79px 0;
+    font-weight: bold;
+}
+
+.icon:hover{
+    color: #ff4c68;
 }
